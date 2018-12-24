@@ -3,6 +3,7 @@ Red
 pink
 green
 violet
+indigo
 orange
 yellow
 unicorn
